@@ -1,0 +1,23 @@
+{
+  "admin": {
+    "id": 1,
+    "nome": "Pedro",
+    "email": "admin@gc.com",
+    "senha": "123",
+    "telefone": "(85) 98662-6341"
+  },
+  "user": [
+    {
+      "nome": "Joao Pedro ",
+      "email": "pedrojoaoti@gmail.com",
+      "telefone": "12345",
+      "parentesco": "Faculdade",
+      "id": 1
+    }
+  ],
+  "parentescos": [
+    "Amigo",
+    "Familia",
+    "Faculdade"
+  ]
+}
